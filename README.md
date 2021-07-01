@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 	
   </div>
   (https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gim78014@gmail.com)](mailto:gim78014@gmail.com)
-  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?ImGaram=ImGaram)](https://github.com/anuraghazra/github-readme-stats)
+  https://github-readme-stats.vercel.app/api?ImGaram=ImGaram]https://github.com/anuraghazra/github-readme-stats
