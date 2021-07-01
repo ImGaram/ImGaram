@@ -19,5 +19,5 @@ Here are some ideas to get you started:
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzzsza)](https://hits.seeyoufarm.com) 
 	
   </div>
-  (https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gim78014@gmail.com)](mailto:gim78014@gmail.com)
+  https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gim78014@gmail.com
   https://github-readme-stats.vercel.app/api?ImGaram=ImGaram]https://github.com/anuraghazra/github-readme-stats
