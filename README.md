@@ -18,4 +18,5 @@ Here are some ideas to get you started:
 	
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzzsza)](https://hits.seeyoufarm.com) 
 </div>
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:snugyun01@gmail.com)  https://github-readme-stats.vercel.app/api?ImGaram=ImGaram]https://github.com/anuraghazra/github-readme-stats
+[![Gmail Badge](img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gim78014@gmail.com)](mailto:gim78014@gmail.com) 
+github-readme-stats.vercel.app/api?ImGaram=ImGaram]github.com/anuraghazra/github-readme-stats
