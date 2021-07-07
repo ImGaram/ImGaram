@@ -41,3 +41,10 @@ Here are some ideas to get you started:
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImGaram&hide_border=true&layout=compact" align="left" style="width: 100%" />
 
 </td></tr></table> 
+
+ ### 🌱 My Contributions
+
+<p align="center">
+
+![](https://ghchart.rshah.org/ImGrarm )
+</p>
