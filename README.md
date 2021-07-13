@@ -32,8 +32,7 @@ Here are some ideas to get you started:
 <div align=center>
 
 ## Github Stats
-<table><tr><td valign="top" width="50%">
-
+ 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=ImGaram&show_icons=true&include_all_commits=true&theme=material-palenight" alt="ImGaram's github stats" />
 </a>
