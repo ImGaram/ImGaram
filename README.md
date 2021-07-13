@@ -36,4 +36,5 @@ Here are some ideas to get you started:
 
 <img src="https://github-readme-stats.vercel.app/api?username=ImGaram&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ImGaram)](https://github.com/anuraghazra/github-readme-stats)
 
