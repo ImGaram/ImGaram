@@ -10,7 +10,7 @@
 <br/> 
 
 ### Hi there 👋
-my name is Garam Im, I interested in Android develop, I'm still a bit immature...
+my name is Garam Im, I interested in Android develop
 
 have a great time!
 
