@@ -12,7 +12,7 @@
 ### Hi there 👋
 my name is Garam Im, I interested in Android develop
 
-have a great time!
+have a great time
 
 <!--
 **ImGaram/ImGaram** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
