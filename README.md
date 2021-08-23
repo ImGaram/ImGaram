@@ -4,7 +4,7 @@
 </div>  
 
   <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=footer&text=임가람&fontSize=70&animation=fadeIn&desc=ImGaram&decsAligenY=80$fontColor=000000"/>
+<img src="https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=footer&text=임가람&fontSize=70&animation=fadeIn&desc=ImGaram&decsAligenY=80"/>
 </p>
  
 ### Hi there 👋
