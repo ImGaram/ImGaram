@@ -12,7 +12,7 @@
 -🏫 I'm a Gwanju SoftWare Meister High School.
 <hr>
 
-### Programming Language
+### 💻Programming Language
 <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a>
