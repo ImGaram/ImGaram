@@ -8,7 +8,7 @@
 </p>
  
 ### Hi there 👋
--🎈 My name is **imgaram** <br>
+-🎈 My name is **imgaram.** <br>
 -🏫 I'm a Gwanju SoftWare Meister High School
 <hr>
 
