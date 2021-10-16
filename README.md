@@ -34,7 +34,7 @@
   <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ImGaram&layout=compact&theme=default" />
 </a>
  
- ## beakjoon
+## beakjoon
 <p>
    <img align='center' src="https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=ksss1206"/>
    <img align='center' src="http://mazassumnida.wtf/api/generate_badge?boj=ksss1206"/>
