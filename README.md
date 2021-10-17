@@ -35,7 +35,6 @@
 </a>
  
 ## beakjoon
-<p>
-   <img align='center' src="https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=ksss1206"/>
-   <img align='center' src="http://mazassumnida.wtf/api/generate_badge?boj=ksss1206"/>
-</p>
+<img align='center' src="https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=ksss1206"/>]
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ksss1206)](https://solved.ac/ksss1206)
+ 
