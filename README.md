@@ -9,7 +9,7 @@
  
 ### Hi there 👋
 -🎈 My name is **imgaram** <br>
--🏫 I'm a Gwanju SoftWare Meister High School.
+-🏫 I'm a Gwanju SoftWare Meister High School.<br>
 -📒 I'm learning Android Develop.
 <hr>
 
@@ -31,7 +31,7 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=ImGaram&show_icons=true&include_all_commits=true&theme=default" alt="ImGaram's github stats" />
   <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ImGaram&layout=compact&theme=default" />
-</a>
+</a><br>
  
 ## beakjoon
 <img align='center' src="https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=ksss1206"/><br/>
