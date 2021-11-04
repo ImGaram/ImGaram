@@ -27,7 +27,7 @@
 <a href="https://https://www.facebook.com/profile.php?id=100015499717593" target="_blank"><img src="https://img.shields.io/badge/임가람-1877F2?style=flat-square&logo=Facebook&logoColor=white"/></a>
 
 ## Github Stats
-<div align=center> 
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=ImGaram&show_icons=true&include_all_commits=true&theme=default" alt="ImGaram's github stats" />
   <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ImGaram&layout=compact&theme=default" />
@@ -35,5 +35,3 @@
  
 ## beakjoon
 <img align='center' src="https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=ksss1206"/><br/>
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ksss1206)](https://solved.ac/ksss1206)
- 
