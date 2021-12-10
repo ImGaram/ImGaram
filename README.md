@@ -31,8 +31,8 @@
 <h3 align="center">Github Stats</h3>
 <p align="center">
  <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ImGaram&layout=compact&theme=default" /></a>
-  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=ImGaram&show_icons=true&include_all_commits=true&theme=default" alt="ImGaram's github stats" /></a>
+  <a><img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ImGaram&layout=compact&theme=default" /></a>
+  <a><img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=ImGaram&show_icons=true&include_all_commits=true&theme=default" alt="ImGaram's github stats" /></a>
  </a><br>
 </p>
 
