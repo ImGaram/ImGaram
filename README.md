@@ -28,7 +28,7 @@
  <a href="https://https://www.facebook.com/profile.php?id=100015499717593" target="_blank"><img src="https://img.shields.io/badge/임가람-1877F2?style=flat-     square&logo=Facebook&logoColor=white"/></a>
 </p>
 
-### Github Stats
+<h3 align="center">Github Stats</h3>
 <p align="center">
  <a href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ImGaram&layout=compact&theme=default" />
@@ -36,7 +36,7 @@
  </a><br>
 </p>
 
-### beakjoon
+<h3 align="center">beakjoon</h3>
 <p align="center">
  <img align='center' src="https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=ksss1206"/><br/>
 </p>
