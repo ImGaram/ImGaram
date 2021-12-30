@@ -9,7 +9,7 @@
  
 ### Hi there 👋
 -🎈 My name is **imgaram**. <br>
--🏫 I'm a Gwanju SoftWare Meister High School.<br>
+-🏫 I'm a Gwanju SoftWare Meister High School<br>
 -📒 I'm learning Android Develop.
 <hr>
 
