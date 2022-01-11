@@ -8,9 +8,9 @@
 </p>
  
 ### Hi there 👋
--🎈 My name is **imgaram** <br>
+-🎈 My name is **imgaram**.<br>
 -🏫 I'm a Gwanju SoftWare Meister High School<br>
--📒 I'm learning Android Develop
+-📒 I'm learning Android Develop.
 <hr>
 
 <h3 align="center">💻Programming Language</h3>
