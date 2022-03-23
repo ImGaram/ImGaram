@@ -4,7 +4,7 @@
 </div>  
  
 ### Hi there 👋
--🎈 My name is **imgaram** <br>
+-🎈 My name is **imgaram.** <br>
 -🏫 I'm a Gwanju SoftWare Meister High School Student<br>
 -📒 I'm learning Android Develop.
 <hr>
