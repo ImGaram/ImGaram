@@ -9,19 +9,19 @@
 -📒 I'm learning Android Develop.
 <hr>
 
-<h3>💻Programming Language</h3>
-<p>
- <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>
- <img src="https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=Kotlin&logoColor=white"/> 
- <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
-</p>
 
-<h3 align="center">Github Stats</h3>
 <p align="center">
  <a href="https://github.com/anuraghazra/github-readme-stats">
   <a><img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ImGaram&layout=compact&theme=default" /></a>
   <a><img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=ImGaram&show_icons=true&include_all_commits=true&theme=default" alt="ImGaram's github stats" height=165"/></a>
  </a><br>
+</p>
+
+<h3 align="center">💻Programming Language</h3>
+<p align="center">
+ <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>
+ <img src="https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=Kotlin&logoColor=white"/> 
+ <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
 </p>
 
 <h3 align="center">beakjoon</h3>
