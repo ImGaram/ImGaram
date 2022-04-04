@@ -23,13 +23,11 @@
  <img src="https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=Kotlin&logoColor=white"/> 
  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
 </p>
-
-<h3 align="center">beakjoon</h3>
+   
 <p align="center">
- <img align='center' src="https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=ksss1206"/><br/>
+ <img src="https://c.tenor.com/aenW02A1Lm4AAAAC/bongo-cat.gif"/>
 </p>
-<hr>
-
+   
 <h3>Imformation</h3>
 <p>
  <a href="https://github.com/ImGaram" target="_blank"><img src="https://img.shields.io/badge/ImGaram-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
