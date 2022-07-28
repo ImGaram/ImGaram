@@ -3,10 +3,10 @@
  
 </div>  
  
-### Hi there 👋
--🎈 My name is **imgaram** <br>
--🏫 I'm a Gwanju SoftWare Meister High School Student<br>
--📒 I'm learning Android Develop
+### 안녕하세요! 👋
+-🎈 제 이름은 **임가람** 입니다. <br>
+-🏫 광주 소프트웨어 마이스터고등학교에 재학 중입니다.<br>
+-📒 안드로이드 개발을 배우고 있습니다.
 <hr>
 
 
