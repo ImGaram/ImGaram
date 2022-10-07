@@ -38,6 +38,6 @@
 <h3 align='center'>baekjoon</h3>
 
 <p align="center">
-<a><img src="https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=ksss1206" width=640/><a/>
+<a><img src="https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=ksss1206" width=600/><a/>
 <a href="https://solved.ac/ksss1206"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ksss1206"/></a>
 </p>
