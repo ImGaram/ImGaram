@@ -28,16 +28,16 @@
  <img src="https://c.tenor.com/aenW02A1Lm4AAAAC/bongo-cat.gif"/>
 </p>
    
-<h3>Imformation</h3>
-<p>
+<h3 align='center'>Imformation</h3>
+<p align='center'>
  <a href="https://github.com/ImGaram" target="_blank"><img src="https://img.shields.io/badge/ImGaram-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
  <a href="https://www.instagram.com/gim78014/" target="_blank"><img src="https://img.shields.io/badge/gim78014-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
  <a href="https://https://www.facebook.com/profile.php?id=100015499717593" target="_blank"><img src="https://img.shields.io/badge/임가람-1877F2?style=flat-     square&logo=Facebook&logoColor=white"/></a>
 </p>
 
-<h3>baekjoon</h3>
+<h3 align='center'>baekjoon</h3>
 
 <p align="center">
-<a><img src="https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=ksss1206" width=657/><a/>
+<a><img src="https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=ksss1206" width=640/><a/>
 <a href="https://solved.ac/ksss1206"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ksss1206"/></a>
 </p>
