@@ -26,4 +26,3 @@
  <a href="https://www.instagram.com/igr_1206/" target="_blank"><img src="https://img.shields.io/badge/igr_1206-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
  <a href="https://https://www.facebook.com/profile.php?id=100015499717593" target="_blank"><img src="https://img.shields.io/badge/임가람-1877F2?style=flat-     square&logo=Facebook&logoColor=white"/></a>
 </p>
-<hr>
