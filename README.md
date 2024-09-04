@@ -11,14 +11,6 @@
  --|--|
 
  <br><br><br>
-
- ## 🔰 Imformation 🔰
- <a href="https://github.com/ImGaram"><img src="https://img.shields.io/badge/ImGaram-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
- <a href="https://www.instagram.com/igr_1206/"><img src="https://img.shields.io/badge/igr_1206-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
- <a href="https://rkdrkd-history.tistory.com/"><img src="https://img.shields.io/badge/immgga-EC4815?style=flat-square&logo=Tistory&logoColor=white"/></a>
- <a href="https://x.com/imgaram_1206"><img src="https://img.shields.io/badge/imgaram_1206-000000?style=flat-square&logo=X&logoColor=white"/></a>
-
- <br><br><br>
  
  ## 💻 Skills 💻
  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/>
@@ -33,6 +25,14 @@
  <a href="https://solved.ac/profile/ksss1206">
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ksss1206"/>
  </a>
+
+ <br><br><br>
+
+  ## 🔰 Imformation 🔰
+ <a href="https://github.com/ImGaram"><img src="https://img.shields.io/badge/ImGaram-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
+ <a href="https://www.instagram.com/igr_1206/"><img src="https://img.shields.io/badge/igr_1206-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
+ <a href="https://rkdrkd-history.tistory.com/"><img src="https://img.shields.io/badge/immgga-EC4815?style=flat-square&logo=Tistory&logoColor=white"/></a>
+ <a href="https://x.com/imgaram_1206"><img src="https://img.shields.io/badge/imgaram_1206-000000?style=flat-square&logo=X&logoColor=white"/></a>
 
  <br><br>
 
