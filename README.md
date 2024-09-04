@@ -8,8 +8,8 @@
  <br>
 
  <a href="https://github.com/anuraghazra/github-readme-stats">
-  <a><img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=ImGaram&show_icons=true&include_all_commits=true&theme=default" alt="ImGaram's github stats" height=165"/></a>
-  <a><img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ImGaram&layout=compact&theme=default" /></a>
+  <a><img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=ImGaram&show_icons=true&include_all_commits=true&theme=default" alt="ImGaram's github stats"/></a>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ImGaram" alt="GitHub Streak" /></a>
  </a>
 
  <br><br><br>
