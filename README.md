@@ -7,7 +7,7 @@
 
  <br>
 
- [![Anurag's GitHub stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=ImGaram&show_icons=true&include_all_commits=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)|[![GitHub Streak](https://streak-stats.demolab.com?user=ImGaram&hide_border=true&border_radius=0)](https://git.io/streak-stats)
+ [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=imgaram&theme=flag-india&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imgaram&layout=compact&theme=flag-india&hide_border=true&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
  --|--|
 
  <br><br><br>
@@ -22,9 +22,14 @@
  <br><br><br>
 
  ## ⚒ Programming ⚒
- <a href="https://solved.ac/profile/ksss1206">
-  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ksss1206"/>
- </a>
+ [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ksss1206)](https://solved.ac/ksss1206)
+ ![mazandi profile](http://mazandi.herokuapp.com/api?handle=ksss1206&theme=cold)
+
+ <br><br><br>
+
+ ## 🧰 Projects 🧰
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=imgaram&repo=Planner-v2)](https://github.com/anuraghazra/github-readme-stats)
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=imgaram&repo=problem)](https://github.com/anuraghazra/github-readme-stats)
 
  <br><br><br>
 
