@@ -28,7 +28,7 @@
  <br><br><br>
 
  ## ✍️ Activities ✍️
- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=imgaram&repo=Planner-v2)](https://github.com/ImGaram/Planner-v2)
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=imgaram&repo=Planner_v2)](https://github.com/ImGaram/Planner_v2)
  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=imgaram&repo=problem)](https://github.com/ImGaram/Problem)
 
  <br><br><br>
