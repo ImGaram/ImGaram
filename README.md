@@ -33,7 +33,7 @@
 
  <br><br><br>
 
-  ## 🔰 Imformation 🔰
+  ## 🔰 Information 🔰
  <a href="https://github.com/ImGaram"><img src="https://img.shields.io/badge/ImGaram-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
  <a href="https://www.instagram.com/igr_1206/"><img src="https://img.shields.io/badge/igr_1206-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
  <a href="https://rkdrkd-history.tistory.com/"><img src="https://img.shields.io/badge/immgga-EC4815?style=flat-square&logo=Tistory&logoColor=white"/></a>
